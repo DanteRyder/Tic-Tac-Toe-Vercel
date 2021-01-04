@@ -58,7 +58,7 @@
 
    - [Example app with styled-components](https://github.com/vercel/next.js/tree/master/examples/with-styled-components)
 
-* Reference:
+* References:
    
    - [Como inicio meus apps com ReactJS? Next.js, TypeScript, ESLint e Styled Components | Code/Drops #50](https://www.youtube.com/watch?v=1nVUfZg2dSA&t)
    
