@@ -1,6 +1,6 @@
 # Tic-Tac-Toe-Vercel
- The tic-tac-toe game made in React with Hooks and TypeScript. Available at Vercel.
-
+ The tic-tac-toe game made in React with Hooks and TypeScript. Available at Vercel: [Tic Tac Toe - Vercel](https://tic-tac-toe-vercel-production.vercel.app/).
+ 
 ### Command to Run the Project
 
  ```
