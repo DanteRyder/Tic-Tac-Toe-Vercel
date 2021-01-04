@@ -145,13 +145,20 @@ const Home: React.FC = () => {
   return (
     <div>
       <Head>
-        <title>Create Next App</title>
+        <title>Tic Tac Toe - Vercel</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main>
+      <main className="main">
+        <h1 className="title">
+          <p>Let's Play <b className="sub-title">Tic Tac Toe </b> !!!</p>
+        </h1>
         <Game />
       </main>
+
+      <footer className="footer">
+        <p>Developed by <b>Dante Ryder</b> (Isaías de França Leite) &copy; GPL-3.0 License - 2020</p>
+      </footer>
     </div>
   )
 }
