@@ -6,7 +6,7 @@
  ```
  yarn dev
 
- or
+ # or
 
  npm run dev
  ```
@@ -18,7 +18,7 @@
    ```
    yarn create next-app my-project
 
-   or
+   # or
 
    npm create next-app my-project
    ```
@@ -28,7 +28,7 @@
    ```
    yarn add typescript @types/react @types/node -D
 
-   or
+   # or
 
    npm install typescript @types/react @types/node -D
    ```
@@ -38,7 +38,7 @@
    ```
    yarn add styled-components
 
-   or
+   # or
 
    npm install styled-components
    ```
@@ -48,7 +48,7 @@
    ```
    yarn add @types/styled-components -D
 
-   or
+   # or
 
    npm install @types/styled-components -D
    ```
